@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "author": "Poi",
+    "description": "Extension dịch"
+  },
+  "data": [
+    {
+      "name": "Tên Nhật (Romaji)",
+      "author": "Poi",
+      "version": 1,
+      "source": "https://ai.google.dev",
+      "path": "https://raw.githubusercontent.com/TEN_GITHUB/vbook-translate/main/plugin.zip",
+      "icon": "https://raw.githubusercontent.com/TEN_GITHUB/vbook-translate/main/icon.png",
+      "description": "Phiên âm tên Nhật viết bằng chữ Hán sang romaji",
+      "type": "translate"
+    }
+  ]
+}

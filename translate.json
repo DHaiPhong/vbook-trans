@@ -9,8 +9,8 @@
       "author": "Poi",
       "version": 2,
       "source": "https://ai.google.dev",
-      "path": "https://raw.githubusercontent.com/DHAIPHONG/vbook-trans/main/plugin.zip",
-      "icon": "https://raw.githubusercontent.com/DHAIPHONG/vbook-trans/main/icon.png",
+      "path": "https://raw.githubusercontent.com/DHaiPhong/vbook-trans/main/plugin.zip",
+      "icon": "https://raw.githubusercontent.com/DHaiPhong/vbook-trans/main/icon.png",
       "description": "Phiên âm tên Nhật viết bằng chữ Hán sang romaji",
       "type": "translate"
     }

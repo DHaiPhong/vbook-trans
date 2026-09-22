@@ -6,7 +6,7 @@
     "path": "https://raw.githubusercontent.com/DHaiPhong/vbook-trans/main/bxh-trung/bxh-trung-plugin.zip",
     "version": 1,
     "source": "https://m.qidian.com",
-    "icon": "https://raw.githubusercontent.com/DHaiPhong/vbook-trans/main/bxh-trung/icon.png",
+    "icon": "https://raw.githubusercontent.com/DHaiPhong/vbook-trans/main/bxh-trung/icon-2.png",
     "description": "BXH tuần/tháng tổng hợp nhiều nguồn",
     "type": "novel",
     "locale": "zh-CN"
